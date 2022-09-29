@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    background-color: bisque;
+}
+
+.container{
+    background-color: burlywood;
+    border: 0;
+    border-radius: 1vh;
+}
+
+#intro{
+    background-color: burlywood;
+    box-shadow: 3vmin 3vmin 3vmin rgb(62, 43, 19);
+}
+
+#welcome-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 10vmin;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vmin;
+}
+
+footer{
+    background-color: bisque;
+}
